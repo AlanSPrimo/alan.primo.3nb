@@ -8,8 +8,3 @@ pub fn reverse(s: &str) -> String { // Define o parametro s como um tipo String 
     // rev é o iterador que inverte a string
     // collect é o iterador que coleta os caracteres invertidos e reescreve em uma nova string
 } 
-
-
-
-
-
