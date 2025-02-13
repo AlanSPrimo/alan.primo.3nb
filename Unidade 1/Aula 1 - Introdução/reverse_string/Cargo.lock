@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "Exercicio1"
+name = "reverse_string"
 version = "0.1.0"
