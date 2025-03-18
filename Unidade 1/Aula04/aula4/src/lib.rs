@@ -19,7 +19,3 @@ mod tests {
         assert_eq!(product, 24);
     }
 }
- 
-fn main() { //Por se tratar de uma função Main ela gera um "Warning" no test
-    println!("Hello, world!");
-}
